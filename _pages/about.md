@@ -23,16 +23,16 @@ My research interests include machine learning, computer vision, and robotics.
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 My paper "Controllable Continual Test-Time Adaptation" has been published, and I welcome everyone to discuss it. The paper can be accessed on arXiv, and the code is available on GitHub.
+- *2024.05*: &nbsp;🎉🎉 My paper "Controllable Continual Test-Time Adaptation" has been published, and I welcome everyone to discuss it. The paper can be accessed on [arXiv](https://arxiv.org/abs/2405.14602), and the code is available on [GitHub](https://github.com/RenshengJi/C-CoTTA).
 
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Controllable Continual Test-Time Adaptation
+**Controllable Continual Test-Time Adaptation**
 
-**Ziqi Shi**,Fan Lyu,Ye Liu,Fanhua Shang,Fuyuan Hu,Wei Feng,Zhang Zhang,Liang Wang
+**Ziqi Shi**,Fan Lyu,Ye Liu,...,Wei Feng,Zhang Zhang,Liang Wang
 
 [paper](https://arxiv.org/abs/2405.14602) [code](https://github.com/RenshengJi/C-CoTTA)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
