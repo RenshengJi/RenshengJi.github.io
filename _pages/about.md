@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests include Machine Learning, Computer Vision, and Robotics.
+I am currently a **Junior Undergraduate** student majoring in [Computer Science and Technology at College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/). I am interested in Machine Learning, Computer Vision, and Robotics. Currently, I am serving as a consultant for the [Peiyang Robot](https://space.bilibili.com/520634089) Team's vision group at Tianjin University.
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
