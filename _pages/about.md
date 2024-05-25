@@ -34,7 +34,7 @@ I am currently a **Junior Undergraduate** student majoring in [Computer Science 
 
 **Ziqi Shi**,Fan Lyu,Ye Liu,...,Wei Feng,Zhang Zhang,Liang Wang
 
-[paper](https://arxiv.org/abs/2405.14602) [code](https://github.com/RenshengJi/C-CoTTA)
+[[paper]](https://arxiv.org/abs/2405.14602) [[code]](https://github.com/RenshengJi/C-CoTTA)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts. 
 </div>
