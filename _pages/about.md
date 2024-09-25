@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **Junior Undergraduate** student majoring in [Computer Science and Technology at College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/). I am interested in Machine Learning, Computer Vision, and Robotics. Currently, I am serving as a consultant for the [Peiyang Robot](https://space.bilibili.com/520634089) Team's vision group at Tianjin University.
+I am currently a **Senior Undergraduate** student majoring in [Computer Science and Technology at College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/). I am interested in Machine Learning, Computer Vision, and Robotics. I will join the [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](https://nlpr.ia.ac.cn/cn/index.html) to pursue my PhD in the fall of 2025, under the guidance of Professor [Zhang Zhaoxiang](https://people.ucas.ac.cn/~zhangzhaoxiang).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -56,3 +56,7 @@ We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf
 
 # 💻 Internships
 - *2024.04 - Present*, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](https://nlpr.ia.ac.cn/cn/index.html).
+
+# 📖 Service
+- *2024.08 - Present*, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
+- ICLR2025 Reviewer,
