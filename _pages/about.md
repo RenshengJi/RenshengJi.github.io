@@ -43,7 +43,7 @@ We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Conformal Uncertainty Indicator for Continual Test-Time Adaptation**
@@ -54,7 +54,7 @@ Fan Lyu, Hanyu Zhao, **Ziqi Shi**,..., Zhang Zhang, Liang Wang
 
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 
-Continual Test-Time Adaptation (CTTA) aims to adapt models to sequentially changing domains during testing, relying on pseudo-labels for self-adaptation. However, incorrect pseudo-labels can accumulate, leading to performance degradation. To address this, we propose a Conformal Uncertainty Indicator (CUI) for CTTA, leveraging Conformal Prediction (CP) to generate prediction sets that include the true label with a specified coverage probability. Since domain shifts can lower the coverage than expected, making CP unreliable, we dynamically compensate for the coverage by measuring both domain and data differences. Reliable pseudo-labels from CP are then selectively utilized to enhance adaptation. Experiments confirm that CUI effectively estimates uncertainty and improves adaptation performance across various existing CTTA methods.
+we propose a Conformal Uncertainty Indicator (CUI) for CTTA, leveraging Conformal Prediction (CP) to generate prediction sets that include the true label with a specified coverage probability. Since domain shifts can lower the coverage than expected, making CP unreliable, we dynamically compensate for the coverage by measuring both domain and data differences. Reliable pseudo-labels from CP are then selectively utilized to enhance adaptation.
 
 </div>
 </div>
@@ -82,3 +82,4 @@ Continual Test-Time Adaptation (CTTA) aims to adapt models to sequentially chang
 
 - _2024.08 - Present_, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
 - ICLR 2025 Reviewer.
+- ICME 2025 Reviewer.
