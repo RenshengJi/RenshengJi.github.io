@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -21,11 +21,11 @@ I am currently a **Senior Undergraduate** student majoring in [Computer Science 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 My paper "Controllable Continual Test-Time Adaptation" has been published, and I welcome everyone to discuss it. The paper can be accessed on [arXiv](https://arxiv.org/abs/2405.14602), and the code is available on [GitHub](https://github.com/RenshengJi/C-CoTTA).
 
-# 📝 Publications 
+- _2024.05_: &nbsp;🎉🎉 My paper "Controllable Continual Test-Time Adaptation" has been published, and I welcome everyone to discuss it. The paper can be accessed on [arXiv](https://arxiv.org/abs/2405.14602), and the code is available on [GitHub](https://github.com/RenshengJi/C-CoTTA).
+
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -35,8 +35,27 @@ I am currently a **Senior Undergraduate** student majoring in [Computer Science 
 **Ziqi Shi**,Fan Lyu,Ye Liu,...,Wei Feng,Zhang Zhang,Liang Wang
 
 [[paper]](https://arxiv.org/abs/2405.14602) [[code]](https://github.com/RenshengJi/C-CoTTA)
+
+<strong><span class='show_paper_citations' data='XUaL4MMAAAAJ:qjMakFHDy7sC'></span></strong>
+
+We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Conformal Uncertainty Indicator for Continual Test-Time Adaptation**
+
+Fan Lyu, Hanyu Zhao, **Ziqi Shi**,..., Zhang Zhang, Liang Wang
+
+[[paper]](https://arxiv.org/abs/2502.02998) [[code]](https://github.com/RenshengJi/TUI)
+
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts. 
+
+Continual Test-Time Adaptation (CTTA) aims to adapt models to sequentially changing domains during testing, relying on pseudo-labels for self-adaptation. However, incorrect pseudo-labels can accumulate, leading to performance degradation. To address this, we propose a Conformal Uncertainty Indicator (CUI) for CTTA, leveraging Conformal Prediction (CP) to generate prediction sets that include the true label with a specified coverage probability. Since domain shifts can lower the coverage than expected, making CP unreliable, we dynamically compensate for the coverage by measuring both domain and data differences. Reliable pseudo-labels from CP are then selectively utilized to enhance adaptation. Experiments confirm that CUI effectively estimates uncertainty and improves adaptation performance across various existing CTTA methods.
+
 </div>
 </div>
 
@@ -44,19 +63,22 @@ We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # 🎖 Honors and Awards -->
-<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2022.09 - Present*, [College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/)
+
+- _2022.09 - Present_, [College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/)
 
 <!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.04 - Present*, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
+
+- _2024.04 - Present_, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
 
 # 📖 Service
-- *2024.08 - Present*, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
+
+- _2024.08 - Present_, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
 - ICLR 2025 Reviewer.
