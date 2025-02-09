@@ -21,9 +21,9 @@ I am currently a **Senior Undergraduate** student majoring in [Computer Science 
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-# 🔥 News
+<!-- # 🔥 News
 
-- _2024.05_: &nbsp;🎉🎉 My paper "Controllable Continual Test-Time Adaptation" has been published, and I welcome everyone to discuss it. The paper can be accessed on [arXiv](https://arxiv.org/abs/2405.14602), and the code is available on [GitHub](https://github.com/RenshengJi/C-CoTTA).
+- _2024.05_: &nbsp;🎉🎉 My paper "Controllable Continual Test-Time Adaptation" has been published, and I welcome everyone to discuss it. The paper can be accessed on [arXiv](https://arxiv.org/abs/2405.14602), and the code is available on [GitHub](https://github.com/RenshengJi/C-CoTTA). -->
 
 # 📝 Publications
 
