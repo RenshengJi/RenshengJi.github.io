@@ -59,6 +59,20 @@ we propose a Conformal Uncertainty Indicator (CUI) for CTTA, leveraging Conforma
 </div>
 </div>
 
+# 📝 Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/3.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TJURM-Radar**
+
+[[code]](https://github.com/RenshengJi/TJURM-Radar)
+
+We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts.
+
+</div>
+</div>
+
 <!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -70,16 +84,14 @@ we propose a Conformal Uncertainty Indicator (CUI) for CTTA, leveraging Conforma
 
 - _2022.09 - Present_, [College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/)
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
-
 # 💻 Internships
 
-- _2024.04 - Present_, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
+- \_2024, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
+- \_2023, [Natural Language Processing Group, Department of Computer Science and Technology, Nanjing University](http://nlp.nju.edu.cn/homepage/).
+- \_2024, [Visual Intelligence Lab, Tianjin University](http://www.tjuvil.net/default.aspx).
+- \_2024, [Lab of Machine Learning and Data Mining, Tianjin University](http://datasci.tju.edu.cn/).
 
 # 📖 Service
 
 - _2024.08 - Present_, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
-- ICLR 2025 Reviewer.
-- ICME 2025 Reviewer.
+- Reviewer: ICLR25、ICME25.
