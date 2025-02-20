@@ -106,13 +106,7 @@ This project addresses the challenges of limited datasets and high annotation co
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/th.jpeg' alt="TJU Logo" width="50"></div></div>
-<div class='paper-box-text' markdown="1">
-
 - _2022.09 - Present_, [College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/)
-
-</div>
-</div>
 
 # 💻 Internships
 
