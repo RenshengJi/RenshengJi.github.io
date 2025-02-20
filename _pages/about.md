@@ -80,7 +80,7 @@ This project implements the radar station robot functionality in Robomaster comp
 
 [[code]](https://github.com/RenshengJi/TJURM-AD)
 
-This project leverages a large collection of first-person videos from Robomaster competitions to extract the movement trajectories of robots within the mini-map using traditional computer vision algorithms. These trajectories and videos form the basis of an autonomous driving dataset. By extracting image features through common backbone networks and employing GRU for trajectory prediction, the autonomous driving model in the Robomaster context goes beyond navigation and obstacle avoidance. It also incorporates trajectory planning (deciding its own route, unlike in traditional cars where this is determined by road planning algorithms) and autonomous decision-making (choosing where to go, unlike in traditional cars where this is specified by the driver). These three capabilities correspond to increasingly distant prediction horizons. The project is currently in active development, and interested parties are welcome to get in touch.
+This project leverages a large collection of first-person videos from Robomaster competitions to extract the movement trajectories of robots within the mini-map using traditional computer vision algorithms. These trajectories and videos form the basis of an autonomous driving dataset. By extracting image features through common backbone networks and employing GRU for trajectory prediction, the autonomous driving model in the Robomaster context goes beyond navigation and obstacle avoidance. It also incorporates trajectory planning (deciding its own route, unlike in traditional cars where this is determined by road planning algorithms) and autonomous decision-making (choosing where to go, unlike in traditional cars where this is specified by the driver). These three capabilities correspond to increasingly distant prediction horizons. **(The project is currently in active development, and interested parties are welcome to get in touch.)**
 
 </div>
 </div>
@@ -106,14 +106,20 @@ This project addresses the challenges of limited datasets and high annotation co
 
 # 📖 Educations
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/th.jpeg' alt="TJU Logo" width="50"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - _2022.09 - Present_, [College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/)
+
+</div>
+</div>
 
 # 💻 Internships
 
-- \_2024\_, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
-- \_2023\_, [Natural Language Processing Group, Department of Computer Science and Technology, Nanjing University](http://nlp.nju.edu.cn/homepage/).
-- \_2024\_, [Visual Intelligence Lab, Tianjin University](http://www.tjuvil.net/default.aspx).
-- \_2024\_, [Lab of Machine Learning and Data Mining, Tianjin University](http://datasci.tju.edu.cn/).
+- _2024_, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
+- _2023_, [Natural Language Processing Group, Department of Computer Science and Technology, Nanjing University](http://nlp.nju.edu.cn/homepage/).
+- _2024_, [Visual Intelligence Lab, Tianjin University](http://www.tjuvil.net/default.aspx).
+- _2024_, [Lab of Machine Learning and Data Mining, Tianjin University](http://datasci.tju.edu.cn/).
 
 # 📖 Service
 
