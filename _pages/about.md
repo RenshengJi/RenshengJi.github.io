@@ -97,6 +97,18 @@ This project addresses the challenges of limited datasets and high annotation co
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TJURM-Detector**
+
+[[code]](https://github.com/RenshengJi/TJURM-AD)
+
+The customized key point detection model for Robomaster competition, modified from Yolov5, supports the key point detection of armor plate and energy mechanism, and provides the coordinates of points in the image coordinate system for the subsequent PnP positioning algorithm. Deploy to the Jetson Xavier NX edge computing device to accelerate inference using TensorRT while using knowledge distillation to achieve lossless compression of the model for faster inference.
+
+</div>
+</div>
+
 <!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -118,4 +130,7 @@ This project addresses the challenges of limited datasets and high annotation co
 # 📖 Service
 
 - _2024.08 - Present_, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
+
+![image](images/7.png)
+
 - Reviewer: ICLR25、ICME25.
