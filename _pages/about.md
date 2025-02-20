@@ -131,6 +131,6 @@ The customized key point detection model for Robomaster competition, modified fr
 
 - _2024.08 - Present_, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
 
-![image](images/7.png)
+<!-- ![image](images/7.png) -->
 
 - Reviewer: ICLR25、ICME25.
