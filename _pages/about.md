@@ -73,6 +73,30 @@ We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TJURM-AutoDrive**
+
+[[code]](https://github.com/RenshengJi/TJURM-AD)
+
+We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Github</div><img src='images/5.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TJURM-ArmorDiffuse**
+
+[[code]](https://github.com/RenshengJi/TJURM-AD)
+
+We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts.
+
+</div>
+</div>
+
 <!--
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -86,10 +110,10 @@ We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf
 
 # 💻 Internships
 
-- \_2024, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
-- \_2023, [Natural Language Processing Group, Department of Computer Science and Technology, Nanjing University](http://nlp.nju.edu.cn/homepage/).
-- \_2024, [Visual Intelligence Lab, Tianjin University](http://www.tjuvil.net/default.aspx).
-- \_2024, [Lab of Machine Learning and Data Mining, Tianjin University](http://datasci.tju.edu.cn/).
+- \_2024\_, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
+- \_2023\_, [Natural Language Processing Group, Department of Computer Science and Technology, Nanjing University](http://nlp.nju.edu.cn/homepage/).
+- \_2024\_, [Visual Intelligence Lab, Tianjin University](http://www.tjuvil.net/default.aspx).
+- \_2024\_, [Lab of Machine Learning and Data Mining, Tianjin University](http://datasci.tju.edu.cn/).
 
 # 📖 Service
 
