@@ -68,7 +68,7 @@ we propose a Conformal Uncertainty Indicator (CUI) for CTTA, leveraging Conforma
 
 [[code]](https://github.com/RenshengJi/TJURM-Radar)
 
-We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts.
+This project implements the radar station robot functionality in Robomaster competitions using two approaches: monocular RGB and RGB + LiDAR fusion. Both methods employ 4K images captured by industrial RGB cameras as direct inputs for target detection models to identify and locate all robots on the field. In the monocular RGB approach, the camera’s extrinsic parameters are calibrated using large-scale PnP to establish the relationship between the camera and field coordinate systems. Depth information is then obtained through 3D structure rendering of the field. For the RGB + LiDAR fusion approach, the robot’s onboard LiDAR provides more precise depth information for targets, enhancing localization accuracy. This integration leverages the complementary strengths of RGB cameras and LiDAR, where RGB images offer rich texture and color information, while LiDAR supplies accurate depth data.
 
 </div>
 </div>
@@ -80,7 +80,7 @@ We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf
 
 [[code]](https://github.com/RenshengJi/TJURM-AD)
 
-We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts.
+This project leverages a large collection of first-person videos from Robomaster competitions to extract the movement trajectories of robots within the mini-map using traditional computer vision algorithms. These trajectories and videos form the basis of an autonomous driving dataset. By extracting image features through common backbone networks and employing GRU for trajectory prediction, the autonomous driving model in the Robomaster context goes beyond navigation and obstacle avoidance. It also incorporates trajectory planning (deciding its own route, unlike in traditional cars where this is determined by road planning algorithms) and autonomous decision-making (choosing where to go, unlike in traditional cars where this is specified by the driver). These three capabilities correspond to increasingly distant prediction horizons. The project is currently in active development, and interested parties are welcome to get in touch.
 
 </div>
 </div>
@@ -92,7 +92,7 @@ We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf
 
 [[code]](https://github.com/RenshengJi/TJURM-AD)
 
-We propose $\textbf{C}$ontrollable $\textbf{Co}$ntinual $\textbf{T}$est-$\textbf{T}$ime $\textbf{A}$daptation (C-CoTTA), which explicitly prevents any single category from encroaching on others, thereby mitigating the mutual influence between categories caused by uncontrollable shifts. Moreover, our method reduces the sensitivity of model to domain transformations, thereby minimizing the magnitude of category shifts.
+This project addresses the challenges of limited datasets and high annotation costs in Robomaster competitions by leveraging existing data and employing diffusion models to augment the dataset. Specifically, we designed a keypoint-conditional generation model to produce datasets that inherently contain the labels required for training detection models. Unlike existing approaches such as ControlNet, which inefficiently render keypoints as images, we innovatively use vector inputs directly as conditions. Extensive experiments have validated the effectiveness of our conditional generation approach.
 
 </div>
 </div>
