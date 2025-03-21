@@ -27,7 +27,7 @@ I am currently a **Senior Undergraduate** student majoring in [Computer Science 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME25</div><img src='images/1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Controllable Continual Test-Time Adaptation**
@@ -129,7 +129,7 @@ The customized key point detection model for Robomaster competition, modified fr
 
 # 📖 Service
 
-- _2024.08 - Present_, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
+- _2024.08 - 2025.02_, captain of the [Peiyang Robot Team](https://space.bilibili.com/520634089), Tianjin University.
 
 <!-- ![image](images/7.png) -->
 
