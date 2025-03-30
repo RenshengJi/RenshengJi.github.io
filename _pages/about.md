@@ -123,6 +123,7 @@ The customized key point detection model for Robomaster competition, modified fr
 
 # 💻 Internships
 
+- _2025_, [Li Auto](www.liauto.com).
 - _2024_, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
 - _2023_, [Natural Language Processing Group, Department of Computer Science and Technology, Nanjing University](http://nlp.nju.edu.cn/homepage/).
 - _2024_, [Visual Intelligence Lab, Tianjin University](http://www.tjuvil.net/default.aspx).
