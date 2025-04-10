@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **Senior Undergraduate** student majoring in [Computer Science and Technology at College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/). I am interested in Machine Learning, Computer Vision, and Robotics. I will join the [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm) to pursue my PhD in the fall of 2025, under the guidance of Professor [Zhang Zhaoxiang](https://people.ucas.ac.cn/~zhangzhaoxiang).
+I am currently a **Senior Undergraduate** student majoring in [Computer Science and Technology at College of Intelligence and Computing, Tianjin University](https://cic.tju.edu.cn/). I am interested in Machine Learning, Computer Vision, and Robotics. I will join the [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm) to pursue my PhD in the fall of 2025,
+supervised by Ap. [Lue Fan](https://lue.fan) Prof. [Zhaoxiang Zhang](https://people.ucas.ac.cn/~zhangzhaoxiang).
 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
 
-- _2025.03_: &nbsp;🎉🎉 I joined [Li Auto](www.liauto.com) as an intern, and the research content was 4D feed forward reconstruction of driving scene.
+- _2025.03_: &nbsp;🎉🎉 I joined [Li Auto](https://www.liauto.com) as an intern, and the research content was 4D feed forward reconstruction of driving scene.
 - _2025.03_: &nbsp;🎉🎉 My first paper "Controllable Continual Test-Time Adaptation" has been accepted by ICME25, and I welcome everyone to discuss it. The paper can be accessed on [arXiv](https://arxiv.org/abs/2405.14602), and the code is available on [GitHub](https://github.com/RenshengJi/C-CoTTA).
 
 # 📝 Publications
@@ -123,7 +124,7 @@ The customized key point detection model for Robomaster competition, modified fr
 
 # 💻 Internships
 
-- _2025_, [Li Auto](www.liauto.com).
+- _2025_, [Li Auto](https://www.liauto.com).
 - _2024_, [New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm).
 - _2023_, [Natural Language Processing Group, Department of Computer Science and Technology, Nanjing University](http://nlp.nju.edu.cn/homepage/).
 - _2024_, [Visual Intelligence Lab, Tianjin University](http://www.tjuvil.net/default.aspx).
